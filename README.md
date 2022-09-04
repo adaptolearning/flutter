@@ -8,10 +8,14 @@
 
 # Adapto Learning Flutter ARC
 
+
 A collection of explorations into the exciting user experience possibilities enabled by the Flutter platform. Built by [adapto-learning](https://github.com/adaptolearning), these vignettes range from the practical to the novel. They aim to inspire both developers and designers to build delightful and beautiful experiences with Flutter. To make it easy for people to learn in a way the way industries expect you to work then that of the way we normally learn. we hope this collaboration collection helps everyone visiting the arc. 
 
 In addition to forking and reviewing the [MIT licensed code](LICENSE.md) available here, feel free to reach out to us so that we can improve or include your request for a version of something which can help everyone for sure.
 
+<br/>
+
+<a href="https://github.com/adaptolearning/flutter/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/adaptolearning/flutter?style=for-the-badge"></a> <a href="https://github.com/adaptolearning/flutter/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/adaptolearning/flutter?style=for-the-badge"></a> <a href="https://github.com/adaptolearning/flutter/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/adaptolearning/flutter?style=for-the-badge"></a> <a href="https://github.com/adaptolearning/flutter/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/adaptolearning/flutter?style=for-the-badge"></a> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/adaptolearning?style=for-the-badge">
 <br/>
 
 ### About Adapto Learning
